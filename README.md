@@ -1,3 +1,5 @@
+[![HitCount](http://hits.dwyl.com/Amitabh-K/server.svg)](http://hits.dwyl.com/Amitabh-K/server)
+
 # API for Grocery Store
 
 
