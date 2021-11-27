@@ -17,7 +17,7 @@ const app = express();
 
 // db
 mongoose
-    .connect("mongodb+srv://user:12345@cluster0.nkwxq.mongodb.net/ecom", {
+    .connect(process.env.DATABASE, {
         useNewUrlParser: true,
         useCreateIndex: true
     })
